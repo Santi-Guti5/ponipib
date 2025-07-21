@@ -76,3 +76,7 @@ home/codespace/.python/current/bin/python "/workspaces/ponipib/msx (1).py"<--[HE
 [07:39:09] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
 [07:39:09] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
 [07:41:01] [Async Chat Thread - #1/INFO]: [Not Secure] <Santix15> -20 / 104
+[07:47:04] [Server thread/INFO]: Santix15 issued server command: /gamemode spectator
+[07:47:04] [Server thread/INFO]: [Santix15: Set own game mode to Spectator Mode]
+[07:47:22] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[07:47:22] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
