@@ -68,3 +68,4 @@ home/codespace/.python/current/bin/python "/workspaces/ponipib/msx (1).py"<--[HE
 [06:32:23] [Server thread/INFO]: Santix15 joined the game
 [06:32:23] [Server thread/INFO]: Santix15[/127.19.82.212:44165] logged in with entity id 21 at ([world]-148.44529769131532, 59.5625, 821.1469459140493)
 [06:32:25] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 227cdeb2-e3ef-435b-9960-1176c6ff8360, mapped to Creeper['Creeper'/197, uuid='227cdeb2-e3ef-435b-9960-1176c6ff8360', l='ServerLevel[world]', x=-216.45, y=13.92, z=879.50, cpos=[-14, 54], tl=0, v=true], can't add Creeper['Creeper'/259, uuid='227cdeb2-e3ef-435b-9960-1176c6ff8360', l='ServerLevel[world]', x=-216.80, y=15.00, z=880.50, cpos=[-14, 55], tl=0, v=false]
+[06:52:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> -130
