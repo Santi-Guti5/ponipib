@@ -80,3 +80,7 @@ home/codespace/.python/current/bin/python "/workspaces/ponipib/msx (1).py"<--[HE
 [07:47:04] [Server thread/INFO]: [Santix15: Set own game mode to Spectator Mode]
 [07:47:22] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
 [07:47:22] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[08:25:39] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:oak_log 1
+[08:25:39] [Server thread/INFO]: [Santix15: Gave 1 [Oak Log] to Santix15]
+[08:25:45] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:oak_log 10
+[08:25:45] [Server thread/INFO]: [Santix15: Gave 10 [Oak Log] to Santix15]
