@@ -47,3 +47,31 @@
 [01:05:19] [Server thread/INFO]: veltrop570 lost connection: Disconnected
 [01:05:19] [Server thread/INFO]: veltrop570 left the game
 [01:06:41] [Server thread/INFO]: lobo3224 has made the advancement [A Terrible Fortress]
+[01:20:41] [User Authenticator #5/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
+[01:20:43] [Server thread/INFO]: veltrop570 joined the game
+[01:20:43] [Server thread/INFO]: veltrop570[/127.25.35.13:37913] logged in with entity id 39256 at ([world_nether]-670.6999999880791, 54.0, -636.6999999880791)
+[01:20:53] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[01:20:53] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[01:20:53] [Server thread/INFO]: veltrop570 has made the advancement [Those Were the Days]
+[01:21:20] [Server thread/INFO]: veltrop570 has made the advancement [War Pigs]
+[01:22:53] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[01:22:53] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[01:23:41] [Async Chat Thread - #18/INFO]: [Not Secure] <veltrop570> yo me tengo que ir porque tengo que ir a la escuela mñn
+[01:23:52] [Async Chat Thread - #18/INFO]: [Not Secure] <lobo3224> ok
+[01:23:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Santix15> buenos
+[01:24:15] [Async Chat Thread - #18/INFO]: [Not Secure] <veltrop570> espero
+[01:24:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[01:24:32] [Async Chat Thread - #18/INFO]: [Not Secure] <Santix15> yo voy a comel
+[01:24:33] [Server thread/INFO]: veltrop570 has completed the challenge [Subspace Bubble]
+[01:24:44] [Server thread/INFO]: Santix15 has completed the challenge [Subspace Bubble]
+[01:25:01] [Server thread/INFO]: veltrop570 lost connection: Disconnected
+[01:25:01] [Server thread/INFO]: veltrop570 left the game
+[01:25:40] [Server thread/INFO]: lobo3224 tried to swim in lava to escape Skeleton
+[01:25:59] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[01:25:59] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[01:26:00] [Async Chat Thread - #20/INFO]: [Not Secure] <Santix15> hay
+[01:26:35] [Server thread/INFO]: lobo3224 was shot by Skeleton
+[01:26:43] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[01:26:43] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[01:28:10] [Server thread/INFO]: Santix15 lost connection: Disconnected
+[01:28:10] [Server thread/INFO]: Santix15 left the game
