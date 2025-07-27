@@ -116,3 +116,20 @@
 [03:27:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Santix15> desapareció del mundo
 [03:27:45] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> dame 100 bloques de diamante
 [03:28:22] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> murio por la baja tangas
+[03:33:01] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[03:33:01] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[03:38:18] [Server thread/INFO]: Santix15 has made the advancement [Light as a Rabbit]
+[03:39:08] [Server thread/INFO]: veltrop570 has made the advancement [Light as a Rabbit]
+[03:39:49] [Server thread/INFO]: veltrop570 issued server command: /gamemode spectator
+[03:39:49] [Server thread/INFO]: [veltrop570: Set own game mode to Spectator Mode]
+[03:40:11] [Server thread/INFO]: Santix15 issued server command: /gamemode spectator
+[03:40:11] [Server thread/INFO]: [Santix15: Set own game mode to Spectator Mode]
+[03:40:43] [Server thread/INFO]: Santix15 issued server command: /tp -190 95.00 ~ 854
+[03:40:53] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 -190 95.00 ~ 854
+[03:40:59] [Server thread/INFO]: Santix15 issued server command: /tp Santix15-190 95.00 ~ 854
+[03:41:23] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 -190 ~ 854
+[03:41:23] [Server thread/INFO]: [Santix15: Teleported Santix15 to -189.500000, 95.000000, 854.500000]
+[03:41:36] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
+[03:41:36] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[03:41:48] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[03:41:48] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
