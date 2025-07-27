@@ -69,3 +69,6 @@
 [02:30:04] [User Authenticator #1/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [02:30:06] [Server thread/INFO]: Santix15 joined the game
 [02:30:06] [Server thread/INFO]: Santix15[/127.19.82.212:43389] logged in with entity id 1731 at ([world]-6673.300000011921, 3.0, -4138.69983274785)
+[02:32:09] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 veltrop570
+[02:32:09] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
+[02:39:40] [Server thread/INFO]: veltrop570 has made the advancement [Who is Cutting Onions?]
