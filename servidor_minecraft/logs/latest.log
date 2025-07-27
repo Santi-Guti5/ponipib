@@ -89,3 +89,17 @@
 [03:09:59] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to lobo3224]
 [03:10:11] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
 [03:10:11] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[03:13:00] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[03:13:00] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[03:18:14] [Server thread/INFO]: lobo3224 issued server command: /give lobo3224 minecraft:acacia_boat
+[03:18:14] [Server thread/INFO]: [lobo3224: Gave 1 [Acacia Boat] to lobo3224]
+[03:18:27] [Server thread/INFO]: lobo3224 lost connection: Disconnected
+[03:18:27] [Server thread/INFO]: lobo3224 left the game
+[03:18:28] [Server thread/INFO]: veltrop570 issued server command: /teltransportamee a mi casa
+[03:19:17] [Server thread/INFO]: veltrop570 fell from a high place
+[03:20:36] [Async Chat Thread - #2/INFO]: [Not Secure] <veltrop570> 190.424
+[03:20:56] [Async Chat Thread - #2/INFO]: [Not Secure] <veltrop570> 854.591
+[03:21:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> -190
+[03:21:11] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:21:11] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[03:21:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> - 190, 854
