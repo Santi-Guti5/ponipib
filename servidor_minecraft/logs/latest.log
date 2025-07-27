@@ -133,3 +133,9 @@
 [03:41:36] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
 [03:41:48] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
 [03:41:48] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
+[03:42:28] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:42:28] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[03:42:52] [Server thread/INFO]: Santix15 has made the advancement [Stay Hydrated!]
+[03:43:32] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[03:43:32] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[03:46:37] [Server thread/INFO]: veltrop570 has made the advancement [Stay Hydrated!]
