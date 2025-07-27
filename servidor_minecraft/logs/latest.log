@@ -75,3 +75,17 @@
 [02:49:43] [Server thread/INFO]: Santix15 has made the advancement [Not Quite "Nine" Lives]
 [02:50:49] [Server thread/INFO]: veltrop570 has made the advancement [Oh Shiny]
 [02:54:07] [Server thread/INFO]: Santix15 has made the advancement [Spooky Scary Skeleton]
+[03:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5095ms or 101 ticks behind
+[03:01:59] [Server thread/INFO]: veltrop570 issued server command: /weather clear
+[03:01:59] [Server thread/INFO]: [veltrop570: Set the weather to clear]
+[03:02:44] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[03:02:44] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[03:07:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> -182
+[03:08:10] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> 719
+[03:09:30] [User Authenticator #2/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[03:09:33] [Server thread/INFO]: lobo3224 joined the game
+[03:09:33] [Server thread/INFO]: lobo3224[/127.74.198.227:48249] logged in with entity id 7433 at ([world]-5053.093096358828, 63.0, -2829.2148070725984)
+[03:09:59] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 lobo3224
+[03:09:59] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to lobo3224]
+[03:10:11] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:10:11] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
