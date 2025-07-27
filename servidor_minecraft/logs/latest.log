@@ -1,186 +1,74 @@
-[02:20:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[02:20:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
-[02:20:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:20:57] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[02:20:57] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[23:36:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[23:36:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) for Minecraft 1.21.7
+[23:36:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:36:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[23:36:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.7.7)
-[02:21:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:21:04] [ServerMain/INFO]: Loaded 1407 recipes
-[02:21:04] [ServerMain/INFO]: Loaded 1520 advancements
-[02:21:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[02:21:05] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 366.7ms
-[02:21:05] [Server thread/INFO]: Starting minecraft server version 1.21.7
-[02:21:05] [Server thread/INFO]: Loading properties
-[02:21:05] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
-[02:21:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:21:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:21:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:21:06] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:21:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:21:07] [Server thread/INFO]: Default game type: SURVIVAL
-[02:21:07] [Server thread/INFO]: Generating keypair
-[02:21:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:21:07] [Server thread/INFO]: Using epoll channel type
-[02:21:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:21:07] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[02:21:07] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[02:21:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:21:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[02:21:09] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
-[02:21:09] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:21:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:21:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:21:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:21:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:21:09] [Server thread/INFO]: Preparing level "world"
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:21:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:21:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:21:11] [Server thread/INFO]: Preparing spawn area: 0%
-[02:21:11] [Server thread/INFO]: Preparing spawn area: 2%
-[02:21:12] [Server thread/INFO]: Preparing spawn area: 65%
-[02:21:12] [Server thread/INFO]: Time elapsed: 1330 ms
-[02:21:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:21:12] [Server thread/INFO]: Preparing spawn area: 0%
-[02:21:12] [Server thread/INFO]: Preparing spawn area: 24%
-[02:21:12] [Server thread/INFO]: Time elapsed: 675 ms
-[02:21:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:21:12] [Server thread/INFO]: Preparing spawn area: 0%
-[02:21:13] [Server thread/INFO]: Time elapsed: 280 ms
-[02:21:13] [Server thread/INFO]: [spark] Starting background profiler...
-[02:21:14] [Server thread/INFO]: Done preparing level "world" (4.336s)
-[02:21:14] [Server thread/INFO]: Running delayed init tasks
-[02:21:14] [Server thread/INFO]: Done (19.499s)! For help, type "help"
-[02:21:41] [User Authenticator #0/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
-[02:21:41] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[02:21:44] [Server thread/INFO]: veltrop570 joined the game
-[02:21:44] [Server thread/INFO]: veltrop570[/127.25.35.13:50503] logged in with entity id 18 at ([world]-6659.451320026902, 5.0, -4118.8916836554135)
-[02:30:04] [User Authenticator #1/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
-[02:30:06] [Server thread/INFO]: Santix15 joined the game
-[02:30:06] [Server thread/INFO]: Santix15[/127.19.82.212:43389] logged in with entity id 1731 at ([world]-6673.300000011921, 3.0, -4138.69983274785)
-[02:32:09] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 veltrop570
-[02:32:09] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
-[02:39:40] [Server thread/INFO]: veltrop570 has made the advancement [Who is Cutting Onions?]
-[02:49:43] [Server thread/INFO]: Santix15 has made the advancement [Not Quite "Nine" Lives]
-[02:50:49] [Server thread/INFO]: veltrop570 has made the advancement [Oh Shiny]
-[02:54:07] [Server thread/INFO]: Santix15 has made the advancement [Spooky Scary Skeleton]
-[03:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5095ms or 101 ticks behind
-[03:01:59] [Server thread/INFO]: veltrop570 issued server command: /weather clear
-[03:01:59] [Server thread/INFO]: [veltrop570: Set the weather to clear]
-[03:02:44] [Server thread/INFO]: veltrop570 issued server command: /time set day
-[03:02:44] [Server thread/INFO]: [veltrop570: Set the time to 1000]
-[03:07:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> -182
-[03:08:10] [Async Chat Thread - #0/INFO]: [Not Secure] <Santix15> 719
-[03:09:30] [User Authenticator #2/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
-[03:09:33] [Server thread/INFO]: lobo3224 joined the game
-[03:09:33] [Server thread/INFO]: lobo3224[/127.74.198.227:48249] logged in with entity id 7433 at ([world]-5053.093096358828, 63.0, -2829.2148070725984)
-[03:09:59] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 lobo3224
-[03:09:59] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to lobo3224]
-[03:10:11] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
-[03:10:11] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
-[03:13:00] [Server thread/INFO]: veltrop570 issued server command: /time set day
-[03:13:00] [Server thread/INFO]: [veltrop570: Set the time to 1000]
-[03:18:14] [Server thread/INFO]: lobo3224 issued server command: /give lobo3224 minecraft:acacia_boat
-[03:18:14] [Server thread/INFO]: [lobo3224: Gave 1 [Acacia Boat] to lobo3224]
-[03:18:27] [Server thread/INFO]: lobo3224 lost connection: Disconnected
-[03:18:27] [Server thread/INFO]: lobo3224 left the game
-[03:18:28] [Server thread/INFO]: veltrop570 issued server command: /teltransportamee a mi casa
-[03:19:17] [Server thread/INFO]: veltrop570 fell from a high place
-[03:20:36] [Async Chat Thread - #2/INFO]: [Not Secure] <veltrop570> 190.424
-[03:20:56] [Async Chat Thread - #2/INFO]: [Not Secure] <veltrop570> 854.591
-[03:21:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> -190
-[03:21:11] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
-[03:21:11] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
-[03:21:26] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> - 190, 854
-[03:22:32] [Server thread/INFO]: veltrop570 issued server command: /time set day
-[03:22:32] [Server thread/INFO]: [veltrop570: Set the time to 1000]
-[03:23:58] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
-[03:23:58] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
-[03:25:52] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
-[03:25:52] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
-[03:26:17] [Server thread/INFO]: Santix15 issued server command: /tp veltrop570 Santix15
-[03:26:17] [Server thread/INFO]: [Santix15: Teleported veltrop570 to Santix15]
-[03:27:00] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> barra kil santi
-[03:27:18] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> dioses maten a santi
-[03:27:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Santix15> desapareció del mundo
-[03:27:45] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> dame 100 bloques de diamante
-[03:28:22] [Async Chat Thread - #4/INFO]: [Not Secure] <veltrop570> murio por la baja tangas
-[03:33:01] [Server thread/INFO]: veltrop570 issued server command: /time set day
-[03:33:01] [Server thread/INFO]: [veltrop570: Set the time to 1000]
-[03:38:18] [Server thread/INFO]: Santix15 has made the advancement [Light as a Rabbit]
-[03:39:08] [Server thread/INFO]: veltrop570 has made the advancement [Light as a Rabbit]
-[03:39:49] [Server thread/INFO]: veltrop570 issued server command: /gamemode spectator
-[03:39:49] [Server thread/INFO]: [veltrop570: Set own game mode to Spectator Mode]
-[03:40:11] [Server thread/INFO]: Santix15 issued server command: /gamemode spectator
-[03:40:11] [Server thread/INFO]: [Santix15: Set own game mode to Spectator Mode]
-[03:40:43] [Server thread/INFO]: Santix15 issued server command: /tp -190 95.00 ~ 854
-[03:40:53] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 -190 95.00 ~ 854
-[03:40:59] [Server thread/INFO]: Santix15 issued server command: /tp Santix15-190 95.00 ~ 854
-[03:41:23] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 -190 ~ 854
-[03:41:23] [Server thread/INFO]: [Santix15: Teleported Santix15 to -189.500000, 95.000000, 854.500000]
-[03:41:36] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
-[03:41:36] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
-[03:41:48] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
-[03:41:48] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
-[03:42:28] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
-[03:42:28] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
-[03:42:52] [Server thread/INFO]: Santix15 has made the advancement [Stay Hydrated!]
-[03:43:32] [Server thread/INFO]: veltrop570 issued server command: /time set day
-[03:43:32] [Server thread/INFO]: [veltrop570: Set the time to 1000]
-[03:46:37] [Server thread/INFO]: veltrop570 has made the advancement [Stay Hydrated!]
-[03:53:30] [Server thread/INFO]: veltrop570 lost connection: Disconnected
-[03:53:30] [Server thread/INFO]: veltrop570 left the game
-[03:54:02] [User Authenticator #3/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
-[03:54:03] [Server thread/INFO]: lobo3224 joined the game
-[03:54:03] [Server thread/INFO]: lobo3224[/127.74.198.227:50377] logged in with entity id 26481 at ([world]-3905.6032059792888, 62.11076431274409, -2024.4625535988607)
-[03:54:13] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
-[03:54:13] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
-[04:04:46] [Server thread/INFO]: lobo3224 lost connection: Disconnected
-[04:04:46] [Server thread/INFO]: lobo3224 left the game
-[04:07:04] [Server thread/INFO]: Santix15 lost connection: Disconnected
-[04:07:04] [Server thread/INFO]: Santix15 left the game
-[04:07:22] [Server thread/INFO]: Stopping the server
-[04:07:22] [Server thread/INFO]: Stopping server
-[04:07:22] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[04:07:22] [Server thread/INFO]: Saving players
-[04:07:22] [Server thread/INFO]: Saving worlds
-[04:07:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[04:07:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[04:07:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[04:07:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[04:07:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:07:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:07:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:07:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:07:22] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[04:07:22] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[04:07:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[04:07:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[23:36:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:36:23] [ServerMain/INFO]: Loaded 1407 recipes
+[23:36:23] [ServerMain/INFO]: Loaded 1520 advancements
+[23:36:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:36:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 457.3ms
+[23:36:23] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[23:36:23] [Server thread/INFO]: Loading properties
+[23:36:23] [Server thread/INFO]: This server is running Paper version 1.21.7-17-main@b4466ec (2025-07-06T18:59:07Z) (Implementing API version 1.21.7-R0.1-SNAPSHOT)
+[23:36:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:36:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:36:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:36:25] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:36:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[23:36:25] [Server thread/INFO]: Default game type: SURVIVAL
+[23:36:25] [Server thread/INFO]: Generating keypair
+[23:36:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:36:25] [Server thread/INFO]: Using epoll channel type
+[23:36:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:36:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:36:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[23:36:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:36:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[23:36:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.7.
+[23:36:27] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:36:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:36:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:36:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:36:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:36:27] [Server thread/INFO]: Preparing level "world"
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:36:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:36:29] [Server thread/INFO]: Preparing spawn area: 0%
+[23:36:29] [Server thread/INFO]: Preparing spawn area: 0%
+[23:36:29] [Server thread/INFO]: Preparing spawn area: 2%
+[23:36:30] [Server thread/INFO]: Time elapsed: 1485 ms
+[23:36:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:36:30] [Server thread/INFO]: Preparing spawn area: 0%
+[23:36:30] [Server thread/INFO]: Preparing spawn area: 14%
+[23:36:30] [Server thread/INFO]: Time elapsed: 959 ms
+[23:36:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:36:31] [Server thread/INFO]: Preparing spawn area: 0%
+[23:36:31] [Server thread/INFO]: Time elapsed: 195 ms
+[23:36:31] [Server thread/INFO]: [spark] Starting background profiler...
+[23:36:32] [Server thread/INFO]: Done preparing level "world" (4.697s)
+[23:36:32] [Server thread/INFO]: Running delayed init tasks
+[23:36:32] [Server thread/INFO]: Done (19.950s)! For help, type "help"
+[23:40:06] [User Authenticator #0/INFO]: UUID of player veltrop570 is f7ecab27-30f6-34e8-b1b9-8b611eddf8e6
+[23:40:06] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[23:40:09] [Server thread/INFO]: veltrop570 joined the game
+[23:40:09] [Server thread/INFO]: veltrop570[/127.19.82.212:47663] logged in with entity id 18 at ([world]-158.69999998807907, 75.0, 769.6999999880791)
+[23:43:17] [User Authenticator #1/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[23:43:20] [Server thread/INFO]: Santix15 joined the game
+[23:43:20] [Server thread/INFO]: Santix15[/127.19.82.212:47895] logged in with entity id 1067 at ([world]-185.12788055293302, 70.0, 868.2085478906945)
+[23:45:55] [User Authenticator #2/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[23:45:57] [Server thread/INFO]: lobo3224 joined the game
+[23:45:57] [Server thread/INFO]: lobo3224[/127.19.82.212:59801] logged in with entity id 1471 at ([world]-181.4106476329202, 64.0, 871.0571436732756)
