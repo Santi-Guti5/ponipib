@@ -208,3 +208,10 @@
 [04:05:46] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
 [04:08:14] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
 [04:08:14] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[04:12:44] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 veltrop570
+[04:12:44] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
+[04:13:18] [Server thread/INFO]: veltrop570 issued server command: /gamemode spectator
+[04:13:18] [Server thread/INFO]: [veltrop570: Set own game mode to Spectator Mode]
+[04:18:42] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 -18 ~ 119 ~ 101
+[04:18:42] [Server thread/INFO]: [Santix15: Teleported Santix15 to -17.500000, 48.000000, 119.500000]
+[04:18:45] [Server thread/INFO]: veltrop570 issued server command: /seed
