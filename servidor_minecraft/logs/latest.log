@@ -138,3 +138,17 @@
 [02:51:21] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
 [02:51:47] [Server thread/INFO]: Santix15 issued server command: /gamemode survival
 [02:51:47] [Server thread/INFO]: [Santix15: Set own game mode to Survival Mode]
+[03:01:45] [Server thread/INFO]: veltrop570 issued server command: /give veltrop570 lever 1
+[03:01:45] [Server thread/INFO]: [veltrop570: Gave 1 [Lever] to veltrop570]
+[03:02:07] [Server thread/INFO]: Santix15 issued server command: /xp add veltrop570 12 levels
+[03:02:07] [Server thread/INFO]: [Santix15: Gave 12 experience levels to veltrop570]
+[03:03:20] [Server thread/INFO]: veltrop570 issued server command: /xp set veltrop570 2 levels
+[03:03:20] [Server thread/INFO]: [veltrop570: Set 2 experience levels on veltrop570]
+[03:03:48] [Server thread/INFO]: veltrop570 issued server command: /xp set veltrop570 43 levels
+[03:03:48] [Server thread/INFO]: [veltrop570: Set 43 experience levels on veltrop570]
+[03:04:05] [Server thread/INFO]: Santix15 issued server command: /xp set veltrop570 12000 levels
+[03:04:05] [Server thread/INFO]: [Santix15: Set 12000 experience levels on veltrop570]
+[03:06:08] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:06:08] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[03:06:49] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:acacia_log 12
+[03:06:49] [Server thread/INFO]: [Santix15: Gave 12 [Acacia Log] to Santix15]
