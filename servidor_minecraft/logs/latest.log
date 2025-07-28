@@ -263,3 +263,13 @@
 [05:45:45] [Server thread/INFO]: [Santix15: Gave 1 [Book] to Santix15]
 [05:50:39] [Server thread/INFO]: veltrop570 issued server command: /time set day
 [05:50:39] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[05:51:35] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[05:51:35] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[05:52:00] [Server thread/INFO]: veltrop570 issued server command: /time set night
+[05:52:00] [Server thread/INFO]: [veltrop570: Set the time to 13000]
+[05:55:45] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[05:55:45] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[05:56:22] [Server thread/INFO]: veltrop570 issued server command: /tp Santix15 veltrop570
+[05:56:22] [Server thread/INFO]: [veltrop570: Teleported Santix15 to veltrop570]
+[05:57:00] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[05:57:00] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
