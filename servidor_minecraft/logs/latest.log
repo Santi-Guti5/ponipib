@@ -168,3 +168,14 @@
 [03:16:48] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
 [03:17:10] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
 [03:17:10] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
+[03:19:14] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[03:19:14] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[03:19:22] [Server thread/INFO]: veltrop570 issued server command: /weather clear
+[03:19:22] [Server thread/INFO]: [veltrop570: Set the weather to clear]
+[03:22:46] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 veltrop570
+[03:22:46] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
+[03:25:28] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
+[03:25:28] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
+[03:25:48] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[03:25:48] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
+[03:26:22] [Server thread/INFO]: veltrop570 has made the advancement [Crafting a New Look]
