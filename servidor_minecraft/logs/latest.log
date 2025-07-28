@@ -215,3 +215,8 @@
 [04:18:42] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 -18 ~ 119 ~ 101
 [04:18:42] [Server thread/INFO]: [Santix15: Teleported Santix15 to -17.500000, 48.000000, 119.500000]
 [04:18:45] [Server thread/INFO]: veltrop570 issued server command: /seed
+[04:26:25] [Server thread/INFO]: veltrop570 has completed the challenge [Hot Tourist Destinations]
+[04:26:39] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[04:26:39] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
+[04:30:03] [Server thread/INFO]: Santix15 issued server command: /gamemode creative
+[04:30:03] [Server thread/INFO]: [Santix15: Set own game mode to Creative Mode]
