@@ -257,3 +257,9 @@
 [05:22:41] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
 [05:26:42] [Async Chat Thread - #24/INFO]: [Not Secure] <Santix15> cayó desde muy alto
 [05:31:06] [Server thread/INFO]: veltrop570 has completed the challenge [Cover Me in Debris]
+[05:41:43] [Server thread/INFO]: veltrop570 issued server command: /give veltrop570 minecraft:golden_carrot 64
+[05:41:43] [Server thread/INFO]: [veltrop570: Gave 64 [Golden Carrot] to veltrop570]
+[05:45:45] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:book
+[05:45:45] [Server thread/INFO]: [Santix15: Gave 1 [Book] to Santix15]
+[05:50:39] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[05:50:39] [Server thread/INFO]: [veltrop570: Set the time to 1000]
