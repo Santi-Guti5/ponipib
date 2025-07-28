@@ -276,3 +276,9 @@
 [06:04:10] [Server thread/INFO]: Santix15 has made the advancement [Tactical Fishing]
 [06:10:23] [Server thread/INFO]: veltrop570 issued server command: /give Santix15 bone 64
 [06:10:23] [Server thread/INFO]: [veltrop570: Gave 64 [Bone] to Santix15]
+[06:12:11] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[06:12:11] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[06:12:23] [Server thread/INFO]: veltrop570 issued server command: /tp Santix15
+[06:12:23] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[06:19:34] [Server thread/INFO]: veltrop570 issued server command: /tp Santix15
+[06:19:34] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
