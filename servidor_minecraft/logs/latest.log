@@ -87,3 +87,10 @@
 [02:16:34] [User Authenticator #9/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [02:16:36] [Server thread/INFO]: lobo3224 joined the game
 [02:16:36] [Server thread/INFO]: lobo3224[/127.158.250.208:49923] logged in with entity id 40013 at ([world]-952.1640457664859, 182.0, -192.76249998807907)
+[02:18:18] [Server thread/INFO]: lobo3224 lost connection: Disconnected
+[02:18:18] [Server thread/INFO]: lobo3224 left the game
+[02:19:54] [Async Chat Thread - #8/INFO]: [Not Secure] <Santix15> loboooo
+[02:23:45] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:obsidian 10
+[02:23:45] [Server thread/INFO]: [Santix15: Gave 10 [Obsidian] to Santix15]
+[02:25:23] [Server thread/INFO]: Santix15 issued server command: /difficulty hard
+[02:25:23] [Server thread/INFO]: [Santix15: The difficulty has been set to Hard]
