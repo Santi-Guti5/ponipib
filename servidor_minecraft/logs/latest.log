@@ -152,3 +152,19 @@
 [03:06:08] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
 [03:06:49] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:acacia_log 12
 [03:06:49] [Server thread/INFO]: [Santix15: Gave 12 [Acacia Log] to Santix15]
+[03:10:39] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:10:39] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[03:10:49] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:10:49] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[03:11:37] [Server thread/INFO]: veltrop570 issued server command: /give Santix15 minecraft:sentry_armor_trim_smithing_template 1
+[03:11:37] [Server thread/INFO]: [veltrop570: Gave 1 [Sentry Armor Trim] to Santix15]
+[03:12:24] [Server thread/INFO]: Santix15 issued server command: /give Santix15 minecraft:acacia_log 12
+[03:12:24] [Server thread/INFO]: [Santix15: Gave 12 [Acacia Log] to Santix15]
+[03:12:36] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
+[03:12:36] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
+[03:15:05] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[03:15:05] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
+[03:16:48] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
+[03:16:48] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
+[03:17:10] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[03:17:10] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
