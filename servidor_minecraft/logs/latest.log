@@ -179,3 +179,18 @@
 [03:25:48] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
 [03:25:48] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
 [03:26:22] [Server thread/INFO]: veltrop570 has made the advancement [Crafting a New Look]
+[03:31:27] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:31:27] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[03:33:02] [Server thread/INFO]: Santix15 issued server command: /xp set veltrop570 120000 levels
+[03:33:02] [Server thread/INFO]: [Santix15: Set 120000 experience levels on veltrop570]
+[03:33:09] [Server thread/INFO]: Santix15 issued server command: /xp set veltrop570 1 levels
+[03:33:09] [Server thread/INFO]: [Santix15: Set 1 experience levels on veltrop570]
+[03:33:21] [Server thread/INFO]: veltrop570 issued server command: /xp set veltrop570 12000
+[03:33:50] [Server thread/INFO]: veltrop570 issued server command: /xp add veltrop570 1200
+[03:33:50] [Server thread/INFO]: [veltrop570: Gave 1200 experience points to veltrop570]
+[03:34:13] [Server thread/INFO]: Santix15 issued server command: /xp set veltrop570 1 levels
+[03:34:13] [Server thread/INFO]: [Santix15: Set 1 experience levels on veltrop570]
+[03:34:22] [Server thread/INFO]: Santix15 issued server command: /xp set veltrop570 4 levels
+[03:34:22] [Server thread/INFO]: [Santix15: Set 4 experience levels on veltrop570]
+[03:34:38] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 veltrop570
+[03:34:38] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
