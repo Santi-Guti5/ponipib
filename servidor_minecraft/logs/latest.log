@@ -28,3 +28,9 @@
 [00:26:55] [User Authenticator #4/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [00:26:57] [Server thread/INFO]: Santix15 joined the game
 [00:26:57] [Server thread/INFO]: Santix15[/127.19.82.212:45225] logged in with entity id 12873 at ([world_nether]58.56628973108116, 51.0, -21.71747150456023)
+[00:38:25] [Server thread/INFO]: lobo3224 issued server command: /tp veltrop570
+[00:38:25] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to veltrop570]
+[00:41:35] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[00:41:35] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[00:42:40] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 lobo3224
+[00:42:40] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to lobo3224]
