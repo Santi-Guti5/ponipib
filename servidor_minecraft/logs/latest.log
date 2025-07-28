@@ -282,3 +282,13 @@
 [06:12:23] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
 [06:19:34] [Server thread/INFO]: veltrop570 issued server command: /tp Santix15
 [06:19:34] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[06:23:59] [Server thread/INFO]: veltrop570 issued server command: /time set day
+[06:23:59] [Server thread/INFO]: [veltrop570: Set the time to 1000]
+[06:24:09] [Server thread/INFO]: veltrop570 issued server command: /gamemode spectator
+[06:24:09] [Server thread/INFO]: [veltrop570: Set own game mode to Spectator Mode]
+[06:26:20] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[06:26:20] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
+[06:28:29] [Server thread/INFO]: veltrop570 has made the advancement [Eye Spy]
+[06:29:30] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 veltrop570
+[06:29:30] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
+[06:29:30] [Server thread/INFO]: Santix15 has made the advancement [Eye Spy]
