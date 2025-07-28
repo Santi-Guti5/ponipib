@@ -76,3 +76,14 @@
 [02:03:52] [User Authenticator #7/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [02:03:54] [Server thread/INFO]: lobo3224 joined the game
 [02:03:54] [Server thread/INFO]: lobo3224[/127.158.250.208:51185] logged in with entity id 37406 at ([world]-952.2795364516211, 182.0, -192.76249998807907)
+[02:11:33] [User Authenticator #8/INFO]: UUID of player Santix15 is 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[02:11:34] [Server thread/INFO]: Santix15 joined the game
+[02:11:34] [Server thread/INFO]: Santix15[/127.19.82.212:33709] logged in with entity id 38671 at ([world_nether]228.3831704912776, 64.0, 700.2756194079413)
+[02:11:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Santix15> Hello lobo3224
+[02:13:37] [Async Chat Thread - #6/INFO]: [Not Secure] <Santix15> lobooo
+[02:16:22] [Netty Epoll Server IO #1/INFO]: Disconnecting lobo3224 for sending keepalive response (10440648) out-of-order!
+[02:16:22] [Server thread/INFO]: lobo3224 lost connection: Timed out
+[02:16:22] [Server thread/INFO]: lobo3224 left the game
+[02:16:34] [User Authenticator #9/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[02:16:36] [Server thread/INFO]: lobo3224 joined the game
+[02:16:36] [Server thread/INFO]: lobo3224[/127.158.250.208:49923] logged in with entity id 40013 at ([world]-952.1640457664859, 182.0, -192.76249998807907)
