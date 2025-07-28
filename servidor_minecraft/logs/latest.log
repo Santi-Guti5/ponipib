@@ -196,3 +196,11 @@
 [03:34:38] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
 [03:47:47] [Async Chat Thread - #22/INFO]: [Not Secure] <veltrop570> a caido desde muy alto
 [03:48:36] [Async Chat Thread - #22/INFO]: [Not Secure] <veltrop570> ze a caydo dedzde mui alto
+[03:52:08] [Server thread/INFO]: veltrop570 issued server command: /gamemode creative
+[03:52:08] [Server thread/INFO]: [veltrop570: Set own game mode to Creative Mode]
+[03:54:34] [Server thread/INFO]: Santix15 issued server command: /tp Santix15 veltrop570
+[03:54:34] [Server thread/INFO]: [Santix15: Teleported Santix15 to veltrop570]
+[03:54:41] [Server thread/INFO]: veltrop570 issued server command: /gamemode survival
+[03:54:41] [Server thread/INFO]: [veltrop570: Set own game mode to Survival Mode]
+[03:56:37] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[03:56:37] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
