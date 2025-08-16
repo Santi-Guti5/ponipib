@@ -93,3 +93,23 @@
 [00:44:23] [Server thread/INFO]: Santix15 has made the advancement [The City at the End of the Game]
 [00:48:15] [Server thread/INFO]: veltrop570 has made the advancement [Local Brewery]
 [00:48:34] [Server thread/INFO]: veltrop570 has reached the goal [Sky's the Limit]
+[00:57:39] [User Authenticator #3/INFO]: UUID of player lobo3224 is b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[00:57:42] [Server thread/INFO]: lobo3224 joined the game
+[00:57:42] [Server thread/INFO]: lobo3224[/127.206.178.158:52931] logged in with entity id 3544 at ([world]-954.3160571681984, 183.0, -189.98750001192093)
+[00:58:01] [Async Chat Thread - #0/INFO]: [Not Secure] <lobo3224> buens
+[00:58:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Santix15> hello
+[00:58:22] [Async Chat Thread - #1/INFO]: [Not Secure] <lobo3224> me hcen tp
+[01:00:04] [Async Chat Thread - #2/INFO]: [Not Secure] <lobo3224> :(
+[01:00:26] [Server thread/WARN]: Santix15 moved too quickly! -1.4045495719760765,0.7531999805212024,-14.125857765540559
+[01:00:32] [Server thread/INFO]: lobo3224 issued server command: /tp Santix15
+[01:00:32] [Server thread/INFO]: lobo3224 has made the advancement [The End?]
+[01:00:32] [Server thread/INFO]: [lobo3224: Teleported lobo3224 to Santix15]
+[01:01:02] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> no lobo
+[01:01:09] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> no lo hagas
+[01:01:28] [Async Chat Thread - #2/INFO]: [Not Secure] <lobo3224> de nuevo
+[01:01:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> loboooo
+[01:01:44] [Server thread/INFO]: veltrop570 issued server command: /tp veltrop570 Santix15
+[01:01:44] [Server thread/INFO]: [veltrop570: Teleported veltrop570 to Santix15]
+[01:01:44] [Async Chat Thread - #2/INFO]: [Not Secure] <Santix15> nooooo
+[01:02:11] [Server thread/INFO]: veltrop570 issued server command: /tp lobo3224 veltrop570
+[01:02:11] [Server thread/INFO]: [veltrop570: Teleported lobo3224 to veltrop570]
